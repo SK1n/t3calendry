@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>452084533589-i6l2n8q9ke0tc10j0fu7mg2u6i4hgsaa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.452084533589-i6l2n8q9ke0tc10j0fu7mg2u6i4hgsaa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGe29V2Z6iZqRqHtldhVNAjRmH6i9H0bE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>452084533589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.t3calendry</string>
+	<key>PROJECT_ID</key>
+	<string>t3calendry</string>
+	<key>STORAGE_BUCKET</key>
+	<string>t3calendry.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:452084533589:ios:e267f11030cdfb64e647dc</string>
+</dict>
+</plist>
